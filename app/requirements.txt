@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+openai
+langchain
+pypdf
+faiss-cpu
+azure-search-documents
